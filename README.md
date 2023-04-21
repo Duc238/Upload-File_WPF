@@ -1,5 +1,5 @@
 # Upload-File_WPF
-Project này mình upload file video
+Project này mình upload file video.
 Hướng dẫn sử dụng:
 - B1: Nhấn vào button Upload File
 - B2: Hộp thoại File Dialog hiện lên, nhấn chọn file video cần upload
